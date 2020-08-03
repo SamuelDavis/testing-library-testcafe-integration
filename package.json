@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@testing-library/testcafe": "^4.2.0",
+    "testcafe": "^1.8.8"
+  }
+}
